@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/book-add.png</file>
+        <file>icons/document-open-folder.png</file>
+        <file>icons/page.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/interface.svg</file>
+    </qresource>
+</RCC>
